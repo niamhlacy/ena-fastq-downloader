@@ -19,7 +19,7 @@ Files are saved directly with strain names. Supports parallel downloads, per-str
 ## Installation
 Clone this repository and make the script executable:
 ```bash
-git clone https://github.com/<yourusername>/ena-fastq-downloader.git
+git clone https://github.com/niamhlacy/ena-fastq-downloader.git
 cd ena-fastq-downloader
 chmod +x ena_wget_from_csv_parallel.sh
 
