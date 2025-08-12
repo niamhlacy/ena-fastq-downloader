@@ -1,0 +1,11 @@
+# Outputs
+fastq/
+logs/
+result_files/
+*.fastq.gz
+*.ok
+*.fail
+*.log
+
+# macOS
+.DS_Store
